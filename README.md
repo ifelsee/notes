@@ -1,4 +1,4 @@
-##java compile in vim 
+## java compile in vim 
 
-'''!javac -d bin src/*.java && java -cp bin app2.App2'''
+```!javac -d bin src/*.java && java -cp bin app2.App2```
 
