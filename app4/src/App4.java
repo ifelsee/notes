@@ -9,7 +9,9 @@ public class App4{
 		//System.out.println(++a); //TODO prints before incementing ->  2
 		//if (a++ == 2 && a == 3 )System.out.println(a+"d");
 		boolean result = (a < b) ? false : true;//TODO one line if else 
-		System.out.println(a > b);
+		double xa = (double) 11/2;
+		System.out.println(xa);
+		
 		
 		
 
