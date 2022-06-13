@@ -1,5 +1,5 @@
 # notes
-otomasyon vb betikler <main>  
+otomasyon vb betikler               => main  
 
 ## Okumaya değer bulduğum bazı şeyler
 
