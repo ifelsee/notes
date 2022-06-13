@@ -1,5 +1,5 @@
 # notes
-see branch
+otomasyon vb betikler <main>  
 
 ## Okumaya değer bulduğum bazı şeyler
 
