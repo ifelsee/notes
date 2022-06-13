@@ -1,5 +1,8 @@
-#TODO   rapor tutar
-#	backup alır ve github'a yükler 			
+#TODO   kişisel rapor tutar
+#	her gün için özel rapor dosyası oluşturur
+#	rapor yazmak için açıldığında saat damgası ekler
+#	backup alır ve github'a yükler
+
 alias rapor='vim /home/xa/rapor/$(date +%d-%m-%y).md + '
 alias raporw='$(printf "\n# %s \n\n\n" $(date +%H:%M:%S) >> /home/xa/rapor/$(date +%d-%m-%y).md) && vim /home/xa/rapor/$(date +%d-%m-%y).md +'
 alias rapordel_='rm -rf /home/xa/rapor/$(date +%d-%m-%y).md'
